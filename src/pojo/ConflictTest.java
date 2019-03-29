@@ -9,6 +9,7 @@ public class ConflictTest {
 		System.out.println("黎明修改提交");
 
 		System.out.println("张三修改提交");
+		System.out.println("444444");
 
 
 	}
