@@ -6,6 +6,7 @@ public class ConflictTest {
 		// TODO 自动生成的方法存根
 		System.out.println("版本冲突测试");
 		System.out.println("张三修改提交");
+		System.out.println("jjdjdddddd");
 
 	}
 
