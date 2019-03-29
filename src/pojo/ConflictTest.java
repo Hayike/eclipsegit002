@@ -1,0 +1,11 @@
+package pojo;
+
+public class ConflictTest {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		System.out.println("版本冲突测试");
+
+	}
+
+}
